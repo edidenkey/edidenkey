@@ -9,6 +9,11 @@ Want to know more about me ?
 - 🔭 I’m currently working on a web app for skills assessment <a href="https://www.enacp.com/">ENACP</a>
 - 📫 You can reach me on Linkedin: <a href="https://www.cyberethik.com/](https://www.linkedin.com/in/edi-denkey-071667117/">Denkey Edi</a>
 - ⚡ Fun fact: I started my journey of coding with CSS3 and in March will be released the CSS 5.01. It's been a while that i'm coding 😄
+
+Some of the projects i worked on:
+-EASE(made with Flutter): https://ease.cyberethik.com/#/login/user
+-ENACP(made with Vue Js): https://enacp.com/
+-CONVOC(made with Vue Js): https://convoc.cyberethik.fr/
 <!--
 **edidenkey/edidenkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
